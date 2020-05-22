@@ -1,1 +1,1 @@
-DominoSuma
+DominoSuma for Android
